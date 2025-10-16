@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Muhammad Awais, a Full-Stack Developer with 4+ years of experience in building scalable web and mobile applications. I specialize in React, React Native, Next.js, Node.js, NestJS, and Express, with solid experience in MySQL, PostgreSQL, MongoDB, microservices, and Golang. I'm a fast learner, passionate about clean code, and always eager to tackle new challenges
+Full-stack developer with 6+ years of experience delivering robust and scalable solutions across web, mobile, and AI platforms. I specialize in React, Next.js, React Native, Node.js, and NestJS for frontend and backend development, with a strong grasp of cloud-native architectures and scalable DevOps workflows.
 
 
 ## 🌐 Socials:
