@@ -1,5 +1,19 @@
 # 💫 About Me:
+AI-Powered Full-Stack Developer | Building Scalable Web, Mobile & AI Systems
+
 Full-stack developer with 6+ years of experience delivering robust and scalable solutions across web, mobile, and AI platforms. I specialize in React, Next.js, React Native, Node.js, and NestJS for frontend and backend development, with a strong grasp of cloud-native architectures and scalable DevOps workflows.
+
+I’ve focused deeply on AI integration from implementing LLM-based chatbots and Retrieval-Augmented Generation (RAG) systems to deploying AI models using FastAPI and cloud infrastructure. I'm passionate about bridging the gap between full-stack engineering and applied AI, enabling businesses to build intelligent, real-time, and production-ready applications.
+
+Tech Stack Highlights:
+
+Frontend & Mobile: React, Next.js, React Native, Tailwind
+Backend & APIs: Node.js, NestJS, Express, FastAPI
+Databases & Infra: PostgreSQL, MongoDB, MySQL, Supabase, AWS, Docker
+AI & ML Integration: LLMs (OpenAI), RAG pipelines, chatbot architecture, model deployment
+Microservices & DevOps: Scalable APIs, serverless functions, CI/CD
+
+Always exploring ways to build cleaner, faster, and smarter systems,  whether it's shipping products or solving real-world problems through automation and AI.
 
 
 ## 🌐 Socials:
